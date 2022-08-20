@@ -52,6 +52,8 @@ Explanation 1:
 There is no such index.
 """
 class Solution:
+    # @param A : list of integers
+    # @return an integer
     def solve(self, A):
         total = sum(A)
         leftSum = 0
