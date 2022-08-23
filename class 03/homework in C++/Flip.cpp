@@ -118,7 +118,7 @@ vector<int> Solution::flip(string arr) {
      ans={l+1,r+1};
      return ans;
 
-//tc=sc=: O(N)
+//tc=sc=: O(N). all 3 ques have same
 
 
 }
