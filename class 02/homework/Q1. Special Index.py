@@ -73,3 +73,5 @@ class Solution:
                 even += val
 
         return count
+
+## T.C : O(N), S.C : O(1)

@@ -52,3 +52,5 @@ class Solution:
         for i, val in enumerate(A):
             sum += val * (i + 1) * (len(A) - i)
         return sum
+
+## T.C : O(N), S.C : O(1)

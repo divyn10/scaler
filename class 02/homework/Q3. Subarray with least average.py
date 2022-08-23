@@ -63,3 +63,5 @@ class Solution:
                 idx = i
         
         return idx
+
+## T.C : O(N), S.C : O(1)

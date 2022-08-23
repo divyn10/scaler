@@ -74,3 +74,5 @@ class Solution:
             ans = ans - A[B - 1 - i] + A[len(A) - 1 - i] 
             res = max(res, ans)
         return res
+
+## T.C : O(N), S.C : O(1)

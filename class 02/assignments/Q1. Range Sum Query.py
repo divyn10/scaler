@@ -64,3 +64,5 @@ class Solution:
         for s, e in B:
             res.append(prefix[e - 1] - prefix[s - 2] if s != 1 else prefix[e - 1])
         return res
+
+## T.C : O(N), S.C : O(N)

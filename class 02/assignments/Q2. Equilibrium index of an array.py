@@ -62,3 +62,5 @@ class Solution:
                 return i
             leftSum += val
         return -1
+
+## T.C : O(N), S.C : O(1)
