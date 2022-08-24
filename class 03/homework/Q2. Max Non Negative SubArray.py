@@ -45,6 +45,8 @@ Explanation 2:
     The three sub-arrays are [10], [2, 3], [100].
     The answer is [100] as its sum is larger than the other two.
 """
+## This is not a kadanes's question it is just finding greatest subarray without any -ve no. 
+## so on -ve no. we are starting new subarray from next index
 
 import math
 class Solution:
