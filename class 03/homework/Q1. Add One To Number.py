@@ -75,3 +75,5 @@ class Solution:
         A.reverse()
         return A
 
+## T.C : O(N), S.C : O(1)
+
