@@ -94,3 +94,5 @@ class Solution:
                 si = i + 1
         
         return [ai + 1, ae + 1] if ans else []
+
+## T.C : O(N), S.C : O(1)
